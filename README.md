@@ -1,3 +1,3 @@
 # Портфолио учебных проектов (student-portfolio)
 1. Мой дебютный сайт-портфолио с учебными проектами, которые реализованы мной во время обучения на курсе "Веб-разработчик" в Яндекс.Практикуме.
-2. Ссылка: https://vadim-cherepanov-web-engineer.github.io/student-portfolio/index.html
+2. Ссылка: https://devvad.github.io/student-portfolio/index.html
